@@ -21,7 +21,7 @@ import java.util.Arrays;
 
 public class motdEvent implements Listener {
 
-    private String motd = "This is the server!";
+    private String motd = "This is the server!s";
     private ItemStack motdItem;
 
     public motdEvent() {
