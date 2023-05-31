@@ -1,0 +1,8 @@
+name: CrystalCapture
+version: '${project.version}'
+main: marcovdvlag.net.crystalcapture.CrystalCapture
+api-version: 1.19
+load: STARTUP
+authors: [Marco van der Vlag]
+description: Plug-in for the minigame CrystalCapture
+website: https://marcovdvlag.net
